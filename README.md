@@ -41,7 +41,7 @@ In general all allophony is optional, one might pronounce /tikap/ as [tikap], [t
 5. If a consonant or vowel is followed by itself it becomes geminated. 
 6. If /t/ is followed by /ɨ/ it becomes [t͡ʃ] word initial, [ʃ] between vowels. At the end of a word, following /ɨ/ it also becomes [ʃ].
 7. The vowels /ɨ ɐ/ get lowered to [ə ä] after /k/.
-8. The vowels /ɨ ɐ/ get rounded to [y œ] or [u ʌ] (depending on speakers preference) after /p/.
+8. The vowels /ɨ ɐ/ get rounded to [y œ] or [u ʌ] after /p/ (depending on speakers preference).
 
 ## Stress
 
