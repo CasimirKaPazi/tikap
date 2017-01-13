@@ -11,21 +11,22 @@ One very productive feature is its system of nonconcatenative morphology. In any
 
 /p t k/ /ɨ ɐ/
 
-The syllable structure is (#C)CV(V)(C).
+The way phonemes can be ordered is limited by these rules:
 
-This means:
-* CC Clusters are possible word initial and medial.
-* Final only one consonant can appear.
-* There are at most two vowels in a row.
-* Geminates and long vowels are counted as CC and VV respectively.
-
-Example:  
-/ptaap.ti/
-/iak/
-/pia/
-/tai.kiik/
+* There can not be more than two consonants or vowels in a row.
+* Word final there can at most be one consonant in the coda.
 
 Usually the ratio of consonants and vowels in a root words is limited by `C = V ± 1` . Exceptions are possible.
+
+## Stress
+
+Vowels and combinations of vowels constitute syllable nuclei. Primary stress can fall on either of those, preferable on VV parts if present.
+
+Example:
+patata > /'pa.ta.ta/ /pa'ta.ta/ /pa.ta'ta/
+paatta > /'paat.ta/
+apatta > /'a.pat.ta/ /a'pat.ta/ /a.pat'ta/
+aptaat > /ap'taat/
 
 ## Allophones
 
@@ -54,22 +55,20 @@ In general all allophony is optional, one might pronounce /tikap/ as [tikap], [t
 7. The vowels /ɨ ɐ/ get lowered to [ə ä] after /k/.
 8. The vowels /ɨ ɐ/ get rounded after /p/ (depending on speakers preference).
 
-## Stress
-
-Primary stress tends to fall on heavy syllables. If there is only heavy syllable it falls on this one, for any case other than this stress is grammatical.
-
-Example:
-/ptaap.ti/ > /'ptaap.ti/
-/ka.tik/ > /ka'tik/
-/pa.ta.ta/ > /'pa.ta.ta/ /pa'ta.ta/ /pa.ta'ta/
-/paipai/ > /'pai.pai/ /pai'pai/
-
-
 # Grammar
 ## Morphology
 ### Grouping
 
-Within a root word the order of consonants is fixed, as is the order of vowels. They however can be grouped differently in the boundaries the syllable structure allows. That is, consonants can form clusters and vowels can form clusters, or both can be equally spread out.
+"Grouping" changes the way consonants and vowel form clusters. Within a root word the order of consonants is fixed, as is the order of vowels. They however can be grouped differently into different syllables.
+Therefor, for every number of consonants and vowels a root can have there are several patterns the phonology allows.
+
+CV VC (ti it)  
+CCV CVC (tki tik)  
+CVV VCV VVC (tia ita iat)  
+CVCV CCVV VCCV VCVC CVVC (tika tkia itka itak tiak)  
+CVCVC CCVCV CCVVC CVCCV VCCVC (tikap tkipa tkiap tikpa itkap)  
+VCVCV VVCVC VVCCV VCVVC CVVCV CVCVV VCCVV  
+...
 
 ## Word order
 
