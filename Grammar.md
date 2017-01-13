@@ -79,6 +79,64 @@ Word order
 Default word order is Verb Subject Object Indirect-object (VSOI).
 But it can change to IVSO, or OVS through noun incorporation.
 
+### Copula, Pronouns, Demonstratives
+
+Pronouns, demonstratives and names can be used as a copula.
+The third person pronouns are demonstratives at the same time.
+The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time runs so fast, *it* is always ahead of me."
+
+|pronoun|Gloss     |English |
+|-----|------------|--------|
+|     | 1.s        | I      |
+|     | 1.p        | we     |
+|     | 2.s        | you    |
+|     | 2.p        | you all|
+|     | incl.dual  | you and me |
+|     | incl.p     | we     |
+|     | 3.proximal | this/they here |
+|     | 3.distal   | that/they there |
+|     | 3.absent   | they who are not here |
+|     |            | all |
+
+### Narrative classifiers
+
+The classifiers (CL) in tikap shouldn't be compared with the ones on finds in many asian and austronesian languages. Instead they are inspired by the classifier handshapes used in ASL and many other sign languages. Their main purpose in tikap is to replace actors in a narrative. Thereby they take the place third person pronouns normally take in english narratives. "*He* wondered where the mountain came form. *It* wasn't there the last time *he* visited."
+
+They are usually used in conjunction with pronouns/demonstratives. In the order:
+
+adjective/relative clause - demonstrative/pronoun - classifier
+
+The main categories are:
+
+* **Big animals**
+  Any kind of animal that can be an actor equivalent to humans. Or is capable to recognize a human as a separate entity. Animals one can interact with.
+  Humans, pets, mammals, birds, reptiles, large fish, heads
+* **Small animals**
+  Any kind of animal that does not recognize humans.
+  Insects, words, snails, small fish, mushrooms, anemone, microbes
+* **Pair**
+  Thing that usually occur in pairs of two or any other small limited number. Some of which English uses the plural by default.
+  Eyes, ears, arms, shears, pants, glasses
+* **Long**
+  Long and thin things in general.
+  Fingers, as single arm, branches, rivers, ropes, hair
+* **Flat**
+  Surfaces and sheets.
+  Plot of land, paper, paintings, walls
+* **Container and their content**
+  Things that serve the purpose of a container or are inside one.
+  Teacups, bottles, bags, vehicles, liquid in a container, passengers, gases under pressure, information storage devices
+* **Compact objects or piles**
+  Any kind of lump or object that does not fall in the other categories.
+  Stones, logs, dirt, tools.
+* **Thing**
+  Everything that's undefined. Always acceptable.
+  Did you get the thingy form the thingy for the thingy?
+
+Classifiers that may or may not be added: Plants, Food, Tools, Places, Piles/Loose material, Networks (Language, social relations, internet)
+
+Which CL to use also depends on the context. If a book falls on your head you would use Compact, if you quote from it, it is a Container.
+
 ### Verb serialization
 
 Verbs can be stringed together to indicate successive actions.
