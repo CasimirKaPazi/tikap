@@ -52,6 +52,17 @@ In general all allophony is optional, one might pronounce /tikap/ as [tikap], [t
 7. The vowels /ɨ ɐ/ get lowered to [ə ä] after /k/.
 8. The vowels /ɨ ɐ/ get rounded after /p/ (depending on speakers preference).
 
+Orthography
+===========
+
+Romanized orthography has two forms which differ in the way consonants are written. Vowels are always < a i >.
+If stress deviates from the predictable pattern it is marked with an accent on the first vowel of the syllable < á í >.
+
+In it's basic form consonants are written as they are /p t k/ always as < p t k >.
+The basic form is always used when talking about unaltered roots. e.g. "tikap"
+
+The alternate form marks allophones. Voiceless [ɸ ʃ~s x] as < f s x > and voiced [β ɾ ɣ] as < v d g >. This is used in normal writing to differentiate words more easily. e.g. "tigaf"
+
 Grammar
 -------
 
@@ -100,7 +111,7 @@ The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time 
 
 ### Narrative classifiers
 
-The classifiers (CL) in tikap shouldn't be compared with the ones on finds in many asian and austronesian languages. Instead they are inspired by the classifier handshapes used in ASL and many other sign languages. Their main purpose in tikap is to replace actors in a narrative. Thereby they take the place third person pronouns normally take in english narratives. "*He* wondered where the mountain came form. *It* wasn't there the last time *he* visited."
+The classifiers (CL) in tikap shouldn't be compared with the ones on finds in many Asian and Austronesian languages. Instead they are inspired by the classifier handshapes used in ASL and many other sign languages. Their main purpose in tikap is to replace actors in a narrative. Thereby they take the place third person pronouns normally take in English narratives. "*He* wondered where the mountain came form. *It* wasn't there the last time *he* visited."
 
 They are usually used in conjunction with pronouns/demonstratives. In the order:
 
@@ -130,10 +141,10 @@ The main categories are:
   Any kind of lump or object that does not fall in the other categories.  
   Stones, logs, tools.
 * **Thing**  
-  General classifier for countable nouns.
+  General classifier for countable nouns.  
   Did you get the thingy form the thingy for the thingy?
-* **Stuff**
-  General classifier for uncountable nouns. Includes abstract concepts like time.
+* **Stuff**  
+  General classifier for uncountable nouns. Includes abstract concepts like time.  
   I better put more stuff of the stuff into the stuff.
 
 Classifiers that may or may not be added: Plants, Food, Tools, Places, Networks (Language, social relations, internet)
