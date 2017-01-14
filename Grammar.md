@@ -91,8 +91,8 @@ The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time 
 |     | 1.p        | we     |
 |     | 2.s        | you    |
 |     | 2.p        | you all|
-|     | incl.dual  | you and me |
-|     | incl.p     | we     |
+|     | inc.dual   | you and me |
+|     | inc.p      | we     |
 |     | 3.proximal | this/they here |
 |     | 3.distal   | that/they there |
 |     | 3.absent   | they who are not here |
@@ -108,32 +108,35 @@ adjective/relative clause - demonstrative/pronoun - classifier
 
 The main categories are:
 
-* **Big animals**
-  Any kind of animal that can be an actor equivalent to humans. Or is capable to recognize a human as a separate entity. Animals one can interact with.
+* **Big animals**  
+  Any kind of animal that can be an actor equivalent to humans. Or is capable to recognize a human as a separate entity. Animals one can interact with.  
   Humans, pets, mammals, birds, reptiles, large fish, heads
-* **Small animals**
-  Any kind of animal that does not recognize humans.
+* **Small animals**  
+  Any kind of animal that does not recognize humans.  
   Insects, words, snails, small fish, mushrooms, anemone, microbes
-* **Pair**
-  Thing that usually occur in pairs of two or any other small limited number. Some of which English uses the plural by default.
+* **Pair**  
+  Thing that usually occur in pairs of two or any other small limited number. Some of which English uses the plural by default.  
   Eyes, ears, arms, shears, pants, glasses
-* **Long**
-  Long and thin things in general.
+* **Long**  
+  Long and thin things in general.  
   Fingers, as single arm, branches, rivers, ropes, hair
-* **Flat**
-  Surfaces and sheets.
+* **Flat**  
+  Surfaces and sheets.  
   Plot of land, paper, paintings, walls
-* **Container and their content**
-  Things that serve the purpose of a container or are inside one.
+* **Container and their content**  
+  Things that serve the purpose of a container or are inside one.  
   Teacups, bottles, bags, vehicles, liquid in a container, passengers, gases under pressure, information storage devices
-* **Compact objects or piles**
-  Any kind of lump or object that does not fall in the other categories.
-  Stones, logs, dirt, tools.
-* **Thing**
-  Everything that's undefined. Always acceptable.
+* **Compact**  
+  Any kind of lump or object that does not fall in the other categories.  
+  Stones, logs, tools.
+* **Thing**  
+  General classifier for countable nouns.
   Did you get the thingy form the thingy for the thingy?
+* **Stuff**
+  General classifier for uncountable nouns. Includes abstract concepts like time.
+  I better put more stuff of the stuff into the stuff.
 
-Classifiers that may or may not be added: Plants, Food, Tools, Places, Piles/Loose material, Networks (Language, social relations, internet)
+Classifiers that may or may not be added: Plants, Food, Tools, Places, Networks (Language, social relations, internet)
 
 Which CL to use also depends on the context. If a book falls on your head you would use Compact, if you quote from it, it is a Container.
 
