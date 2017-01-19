@@ -63,6 +63,11 @@ The basic form is always used when talking about unaltered roots. e.g. "tikap"
 
 The alternate form marks allophones. Voiceless [ɸ ʃ~s x] as < f s x > and voiced [β ɾ ɣ] as < v d g >. This is used in normal writing to differentiate words more easily. e.g. "tigaf"
 
+Example:  
+tikap atki tipai  
+tigaf aski tivai  
+[tɨɣäɸ ɐskə tɨβai]
+
 Grammar
 -------
 
@@ -81,6 +86,15 @@ CVCV CCVV VCCV VCVC CVVC (tika tkia itka itak tiak)
 CVCVC CCVCV CCVVC CVCCV VCCVC (tikap tkipa tkiap tikpa itkap)  
 VCVCV VVCVC VVCCV VCVVC CVVCV CVCVV VCCVV  
 ...
+
+### Affixes
+
+When an affix gets added to a word, the word retains its form, the affix however may change to avoid clusters becoming to large. If it is somehow not possibe and a consonant or vowel is needed, the previous consonant or vowel is echoed.  
+Example:  
+tik + ptaik > tkiptaik  
+katia + apa > katiapaa
+tpik + ptaik > tpik*i*ptaik
+katia + apaa > katia*t*apaa
 
 Word order
 ==========
