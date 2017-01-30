@@ -71,57 +71,52 @@ tigaf aski tivai
 Grammar
 -------
 
-Morphology
-==========
+Word classes
+============
 
-### Grouping
+* Closed class
+  * Base verbs (usually transitive or ditransitive)
+  * Narrative classifiers
+* Open class
+  * Adjectives/descriptive verbs (usually intransitive or avalent)
+  * Nouns
 
-"Grouping" changes the way consonants and vowel form clusters. Within a root word the order of consonants is fixed, as is the order of vowels. They however can be grouped differently into different syllables.
-Therefor, for every number of consonants and vowels a root can have there are several patterns the phonology allows.
+Adjectives and nouns can easily change into one other, differing mostly in their role in the sentence.
 
-CV VC (ti it)  
-CCV CVC (tki tik)  
-CVV VCV VVC (tia ita iat)  
-CVCV CCVV VCCV VCVC CVVC (tika tkia itka itak tiak)  
-CVCVC CCVCV CCVVC CVCCV VCCVC (tikap tkipa tkiap tikpa itkap)  
-VCVCV VVCVC VVCCV VCVVC CVVCV CVCVV VCCVV  
-...
+### Base verbs
 
-### Affixes
+*Inversion:*  
+A smaller group of base verbs can be turned into a inverted form in which the subject becomes the object (*to ask* > *to answer*). This often also includes semantic changes.
+Note that the inversion just changes the doer of the action, not it's connotation (*give a gift* > *steal*).  
+Usually only used when the object is part of the "big animal" group. That is, some highly animate being to interact with. Indirect objects are unaffected.
 
-When an affix gets added to a word, the word retains its form, the affix however may change to avoid clusters becoming to large. If it is somehow not possibe and a consonant or vowel is needed, the previous consonant or vowel is echoed.  
-Example:  
-tik + ptaik > tkiptaik  
-katia + apa > katiapaa
-tpik + ptaik > tpik*i*ptaik
-katia + apaa > katia*t*apaa
+The base verbs are:
 
-Word order
-==========
+* **talk** "taki"  
+  Or any social interaction.
+  inversion: listen
+* **give a gift**  
+  To give someone a gift is a highly regulated and formal act. It is therefor different form giving someone a tool at work or food because they are hungry.
+  inversion: steal  
+* **perceive**
+  inversion: show, draw attention
+* **ask, learn, think**
+  inversion: answer, teach
+* **go**
+  inversion: move something
 
-### Basic word order
+* **ingest**  
+* **give, take, share, put down, pick up**  
+  Change the location or owner of an object (without any formality).
+* **hold, hug, care**
+* **affect** "akita"  
+  hit, chop, break, burn
+* **use**
+* **create, plant, cook**
+* **use mouth** "pipiti"  
+  In any way that's not talking or eating. Spit, lick, kiss, smile, utter random noise.
 
-Default word order is Verb Subject Object Indirect-object (VSOI).
-But it can change to IVSO, or OVS through noun incorporation.
 
-### Copula, Pronouns, Demonstratives
-
-Pronouns, demonstratives and names can be used as a copula.
-The third person pronouns are demonstratives at the same time.
-The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time runs so fast, *it* is always ahead of me."
-
-|pronoun|Gloss     |English |
-|-----|------------|--------|
-|     | 1.s        | I      |
-|     | 1.p        | we     |
-|     | 2.s        | you    |
-|     | 2.p        | you all|
-|     | inc.dual   | you and me |
-|     | inc.p      | we     |
-|     | 3.proximal | this/they here |
-|     | 3.distal   | that/they there |
-|     | 3.absent   | they who are not here |
-|     |            | all |
 
 ### Narrative classifiers
 
@@ -165,9 +160,76 @@ Classifiers that may or may not be added: Plants, Food, Tools, Places, Networks 
 
 Which CL to use also depends on the context. If a book falls on your head you would use Compact, if you quote from it, it is a Container.
 
+### Adjectives/descriptive verbs
+
+Adjectives can in their base form be translated as "to be x", in transitive sentences "to cause something to be x". To make it transitive it is usually combined with base verbs, while omitting the base verb is common when the context is clear.  
+
+*be sleeping* & *put down* > bring someone to bed
+
+### Nouns
+
+Nouns are boring. Therefor classifiers take their place as often as possible.
+
+
+Morphology
+==========
+
+### Grouping
+
+"Grouping" changes the way consonants and vowel form clusters. Within a root word the order of consonants is fixed, as is the order of vowels. They however can be grouped differently into different syllables.
+Therefor, for every number of consonants and vowels a root can have there are several patterns the phonology allows.
+
+CV VC (ti it)  
+CCV CVC (tki tik)  
+CVV VCV VVC (tia ita iat)  
+CVCV CCVV VCCV VCVC CVVC (tika tkia itka itak tiak)  
+CVCVC CCVCV CCVVC CVCCV VCCVC (tikap tkipa tkiap tikpa itkap)  
+VCVCV VVCVC VVCCV VCVVC CVVCV CVCVV VCCVV  
+...
+
+### Affixes
+
+When an affix gets added to a word, the word retains its form, the affix however may change to avoid clusters becoming to large. If it is somehow not possibe and a consonant or vowel is needed, the previous consonant or vowel is echoed.  
+Example:  
+tik + ptaik > tkiptaik  
+katia + apa > katiapaa
+tpik + ptaik > tpik*i*ptaik
+katia + apaa > katia*t*apaa
+
+### Number
+
+All nouns are undefined in their number. When a noun is used with a classifier but no number word it is singular. For any other number than one or zero a classifier is needed.
+
+Word order
+==========
+
+### Basic word order
+
+Default word order is Verb Subject Object Indirect-object (VSOI).
+But it can change to IVSO, or OVS through noun incorporation.
+
+### Copula, Pronouns, Demonstratives
+
+Pronouns, demonstratives and names can be used as a copula.
+The third person pronouns are demonstratives at the same time.
+The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time runs so fast, *it* is always ahead of me."
+
+|pronoun|Gloss     |English |
+|-----|------------|--------|
+|     | 1.s        | I      |
+|     | 1.p        | we     |
+|     | 2.s        | you    |
+|     | 2.p        | you all|
+|     | inc.dual   | you and me |
+|     | inc.p      | we     |
+|     | 3.proximal | this/they here |
+|     | 3.distal   | that/they there |
+|     | 3.absent   | they who are not here |
+|     |            | all |
+
 ### Verb serialization
 
-Verbs can be stringed together to indicate successive actions.
+Base verbs can be stringed together to indicate successive actions. Note that a descriptive verb + a base verb just narrows down the meaning of the base verb.
 
 Example:  
 "steal run dog fish."  
