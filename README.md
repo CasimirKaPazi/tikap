@@ -1,19 +1,28 @@
 Tikap
 -----
 
-Tikap (might be pronounced like Teacup) is a conlang with five phonemes /p t k/ /ɨ ɐ/ (p t k i a). It's only goal is to make a functional language with this limited inventory.
+Tikap ("Teacup") is a conlang with five phonemes /p t k/ /ɨ ɐ/ (p t k i a). It's only goal is to make a functional language with this limited inventory.
 
-In order to achieve this it tries to work with a small vocabulary and therefor oligosynthetic elements.
+Which requirements have to be meet to consider a language "functional" is an open discussion. However I developed a simple plan in few steps. Each step is an improvement towards the goal.
 
-One very productive feature is its system of nonconcatenative morphology. In any root word consonants and vowels can be regrouped to form different patterns with new meaning. The order of consonants and the order of vowels however stays the same. Therefor the root word "tikap" can also have the forms "tkipa, tkiap, tikpa, itkap". Together with allophonic variation those five words can be pronounced quite different from each other [tɨɣäɸ txəβʌ txəɐɸ tɨxpʌ ɨskəɸ].  
-This system is intentionally designed in a way that allows any consonant and vowel clusters to be broken apart. This way they can not be analyzed as additional phonemes of their own.
+1. Write a grammar.
+2. Translate text into the language.
+3. Learn it to fluency.
+4. Persuade someone else to learn it.
+5. Communicate together.
+6. Get married, have children, raise them as native speaker.
+
+In order to achieve this the language tries to work with a small vocabulary and therefor uses some uncommon grammatical constructions.
+
+One very productive feature is its system of nonconcatenative morphology. In any root word consonants and vowels can be regrouped to form different patterns with new meaning. The order of consonants and the order of vowels however stays the same. Therefor the root word "tikap" has the consonants "tkp" (in this order) and the vowels "ia" (in this order). This allows the following variations: "tkipa, tkiap, tikpa, itkap". Together with allophonic variation those five words can be pronounced quite different from each other [tɨɣäɸ txəβʌ txəɐɸ tɨxpʌ ɨskəɸ].  
+This system is intentionally designed in a way that allows any consonant and vowel clusters to be broken apart. So they can not be analyzed as additional phonemes of their own.
 
 Inspiration
 -----------
 
 While the conlang is largely determined by the constrain the phonology creates, inspiration for certain features has been drawn from some other languages.
 
-* The Phonology itself is inspired by Rotokas. An alternative attempt would be to have a bilabial, an alveolar and a glottal consonant, which would more resemble Piraha.
+* The Phonology itself is inspired by Rotokas. An alternative attempt would have a bilabial, an alveolar and a glottal consonant, which would more resemble Piraha.
 * The system of "classifiers" is directly inspired by American Sign Language (ASL).
 * Using demonstratives as copula is directly inspired by the German Sign Language (DGS).
 * The effort to keep the language conceptually simple and part of the aesthetics draw from Toki Pona.
