@@ -27,7 +27,7 @@ aptaat > /ap'taat/
 Allophones
 ==========
 
-In general all allophony is optional, one might pronounce /tikap/ as [tikap], [tɨkɐp], [tɨɣäɸ] or anything in between. As a register the basic variant is used in dictating, teaching and talking to learners of the language.
+In general all allophony is optional, one might pronounce /tikap/ as [tikap], [tɨkɐp], [tɨɣäɸ] or anything in between. As a register the basic variant is used in dictating, teaching and talking to learners of the language and linguists or when talking about parts of the language.
 
 |                   | Bilabial | Alveolar | Velar   |
 | ----------------- |:--------:|:--------:|:-------:|
@@ -52,21 +52,24 @@ In general all allophony is optional, one might pronounce /tikap/ as [tikap], [t
 7. The vowels /ɨ ɐ/ get lowered to [ə ä] after /k/.
 8. The vowels /ɨ ɐ/ get rounded after /p/ (depending on speakers preference).
 
+Because of the wide free variation possible the language is often slurred and spoken with so little effort, that to an untrained listener it might not sound like a complex system of communication at all.
+
 Orthography
 ===========
 
-Romanized orthography has two forms which differ in the way consonants are written. Vowels are always < a i >.
+Romanized orthography has two forms which differ in the way consonants are written. Vowels are < a i > usually.
 If stress deviates from the predictable pattern it is marked with an accent on the first vowel of the syllable < á í >.
 
 In it's basic form consonants are written as they are /p t k/ always as < p t k >.
 The basic form is always used when talking about unaltered roots. e.g. "tikap"
 
 The alternate form marks allophones. Voiceless [ɸ ʃ~s x] as < f s x > and voiced [β ɾ ɣ] as < v d g >. This is used in normal writing to differentiate words more easily. e.g. "tigaf"
+Vowels are < o u > after /p/ and < a e > after /k/.
 
 Example:  
-tikap atki tipai  
-tigaf aski tivai  
-[tɨɣäɸ ɐskə tɨβai]
+tikap atki tipái  
+tigaf aske tivóu  
+[tɨɣäɸ ɐskə tɨβ'ɞʉ]
 
 Grammar
 -------
