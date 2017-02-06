@@ -163,6 +163,8 @@ Classifiers that may or may not be added: Plants, Food, Tools, Places, Networks 
 
 Which CL to use also depends on the context. If a book falls on your head you would use Compact, if you quote from it, it is a Container.
 
+To talk about a classifier in an abstract sense (as in "I don't know when to use the Stuff-CL") they get prefixed with the Thing-CL.
+
 ### Adjectives/descriptive verbs
 
 Adjectives can in their base form be translated as "to be x", in transitive sentences "to cause something to be x". To make it transitive it is usually combined with base verbs, while omitting the base verb is common when the context is clear.  
