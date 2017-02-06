@@ -182,6 +182,14 @@ Morphology
 ### Grouping
 
 "Grouping" changes the way consonants and vowel form clusters. Within a root word the order of consonants is fixed, as is the order of vowels. They however can be grouped differently into different syllables.
+
+The root word is written in a CVCV... pattern if possible.
+For the word "kitap" consonants are: "ktp" and vowels are: "ia".
+
+    C:    k t p   kt p    k tp     kt p   kt  p
+    V:     i a      i a    i  a   i  a      ia
+    Word: kitap   ktipa   kitpa   iktap   ktiap
+
 Therefor, for every number of consonants and vowels a root can have there are several patterns the phonology allows.
 
 CV VC (ti it)  
@@ -194,12 +202,12 @@ VCVCV VVCVC VVCCV VCVVC CVVCV CVCVV VCCVV
 
 ### Affixes
 
-When an affix gets added to a word, the word retains its form, the affix however may change to avoid clusters becoming to large. If it is somehow not possibe and a consonant or vowel is needed, the previous consonant or vowel is echoed.  
+When an affix gets added to a word, the word retains its form, the affix however may change to avoid clusters becoming to large. If it is somehow not possible and a consonant or vowel is needed, the previous consonant or vowel is echoed.  
 Example:  
-tik + ptaik > tkiptaik  
-katia + apa > katiapaa
-tpik + ptaik > tpik*i*ptaik
-katia + apaa > katia*t*apaa
+tik- ptaik > tkiptaik  
+katia -apa > katiapaa
+tpik- ptaik > tpik*i*ptaik
+katia -apaa > katia*t*apaa
 
 ### Number
 
