@@ -86,6 +86,7 @@ Word classes
 
 Adjectives and nouns can easily change into one other, differing mostly in their role in the sentence.
 
+
 ### Base verbs
 
 *Inversion:*  
@@ -118,7 +119,6 @@ The base verbs are:
 * **create, plant, cook**
 * **use mouth** "pipiti"  
   In any way that's not talking or eating. Spit, lick, kiss, smile, utter random noise.
-
 
 
 ### Narrative classifiers
@@ -163,13 +163,20 @@ Classifiers that may or may not be added: Plants, Food, Tools, Places, Networks 
 
 Which CL to use also depends on the context. If a book falls on your head you would use Compact, if you quote from it, it is a Container.
 
+There are two main forms:
+
+* *CL:* When used to classify a noun they end with a vowel.
+* *Narrative:* When used on their own they begin and end in a consonant.
+
 To talk about a classifier in an abstract sense (as in "I don't know when to use the Stuff-CL") they get prefixed with the Thing-CL.
+
 
 ### Adjectives/descriptive verbs
 
 Adjectives can in their base form be translated as "to be x", in transitive sentences "to cause something to be x". To make it transitive it is usually combined with base verbs, while omitting the base verb is common when the context is clear.  
 
 *be sleeping* & *put down* > bring someone to bed
+
 
 ### Nouns
 
@@ -186,8 +193,8 @@ Morphology
 The root word is written in a CVCV... pattern if possible.
 For the word "kitap" consonants are: "ktp" and vowels are: "ia".
 
-    C:    k t p   kt p    k tp     kt p   kt  p
-    V:     i a      i a    i  a   i  a      ia
+    C:    k_t_p   kt_p_   k_tp_   _kt_p   kt__p
+    V:    _i_a_   __i_a   _i__a   i__a_   __ia_
     Word: kitap   ktipa   kitpa   iktap   ktiap
 
 Therefor, for every number of consonants and vowels a root can have there are several patterns the phonology allows.
@@ -200,6 +207,13 @@ CVCVC CCVCV CCVVC CVCCV VCCVC (tikap tkipa tkiap tikpa itkap)
 VCVCV VVCVC VVCCV VCVVC CVVCV CVCVV VCCVV  
 ...
 
+Grouping has two main purposes. First to add affixes (see section on affixes), second to indicate which grammatical role the words take in a sentence. For the purpose of marking the grammatical role the core principle is the sonority hierarchy - applied to different scales. In it's simplest form it states that the louder sounds tend to be the center of an element. In the case of tikap /ɨ ɐ/ are more sonorous and /p t k/ are less sonorous. For a syllable this gives a shape of e.g. "kap". One can also apply it to words and therefor have "tikap" instead of "itkpa". Extending it up to the phrase or sentence level we can generate a set of rules on how the individual words should ideally look like.
+Because of the VSO word order verbs tend to be at the beginning of sentences, they therefor begin with a consonant. Classifiers can start a noun phrase, when they end in a vowel the listener knows that there is something to follow. In contrast, when the CL ends in a consonant the listener know it stands on its own.
+In this way, the sonority patterns produced by grouping resemble intonation patterns.
+
+Note that, because affixes "agree" with the root word they mirror the forms. A root word ending in a consonant will more likely also end in a consonant even with affixes attached. e.g. ika*t* pi -ka > ikatipa*k*
+
+
 ### Affixes
 
 When an affix gets added to a word, the word retains its form, the affix however may change to avoid clusters becoming to large. If it is somehow not possible and a consonant or vowel is needed, the previous consonant or vowel is echoed.  
@@ -209,9 +223,27 @@ katia -apa > katiapaa
 tpik- ptaik > tpik*i*ptaik
 katia -apaa > katia*t*apaa
 
-### Number
+
+### Number and Definiteness
 
 All nouns are undefined in their number. When a noun is used with a classifier but no number word it is singular. For any other number than one or zero a classifier is needed.
+A classifier also makes a noun more definite.
+
+
+### Possession
+
+To indicate, in a declarative sentence, something is in someones possession the pronoun for the person in question is used like a copula before the possessed noun. *You arm* "This is your arm."  
+A possessed word just uses the same construction with the pronoun as prefix. *youarm*
+
+
+### Evidence and Tense
+
+These prefixes attach to base verbs and demonstratives.
+There is no explicit tense marking, but direct and indirect evidence also imply a non-future tense (present or past).
+
+* Direct evidence: **pi-** own experience, perception, self evident truth
+* Indirect evidence: **tat-** reported speech, reasoning, inferring
+* Non-evidence: *unmarked* reported-reported speech, made up stories, guessing, questions
 
 Word order
 ==========
@@ -220,6 +252,7 @@ Word order
 
 Default word order is Verb Subject Object Indirect-object (VSOI).
 But it can change to IVSO, or OVS through noun incorporation.
+
 
 ### Copula, Pronouns, Demonstratives
 
@@ -240,18 +273,20 @@ The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time 
 |     | 3.absent   | they who are not here |
 |     |            | all |
 
+
 ### Verb serialization
 
 Base verbs can be stringed together to indicate successive actions. Note that a descriptive verb + a base verb just narrows down the meaning of the base verb.
 
 Example:  
-"steal run dog fish."  
+*take go dog fish*  
 The dog steals fish and runs away.
+
 
 ### Noun incorporation
 
 To indicate an action that involves a specific object or instrument, the noun can be prefixed to the verb. Giving rise to constructions similar to the English "baby-sitting".
 
 Example:  
-"fish steal dog."  
-The dog is fish-stealing.
+*fish take dog*  
+The dog is fish-taking.
