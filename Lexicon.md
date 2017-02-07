@@ -52,7 +52,7 @@ tikap     | meaning        | origin
 ----------|----------------|--------
 taki      | talk, language | toki pona: toki
           | give a gift
-          | percieve
+          | perceive
           | ask learn think
           | go
 tpatap    | ingest         | nomnom (taptap)
@@ -82,3 +82,5 @@ titikaka  | body of water  | lake titikaka
 kapa      | head, person, big animal |
 tipapata  | water          |
 tapap     | house, building | toki pona: tomo (tpamo tpapa)
+tikap     | a language called tikap | After coming up with the phonology I put all possible combinations of all five phonemes into google to see which has the fewest results. Tikap won.
+tikap     | a teacup       | en: teacup

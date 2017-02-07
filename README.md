@@ -1,7 +1,13 @@
 Tikap
 -----
 
-Tikap ("Teacup") is a conlang with five phonemes /p t k/ /ɨ ɐ/ (p t k i a). It's only goal is to make a functional language with this limited inventory.
+**kaa kedaf pugea tigaf**  
+[kɐː kəɾɐɸ pʉɣɘɐ tɨɣɐɸ]  
+kaa kitap pi-kia tikap  
+THING.CL written EXP-DEM.PROXIMATE teacup  
+This document is about Tikap.
+
+Tikap is a conlang with five phonemes /p t k/ /ɨ ɐ/ (p t k i a). It's only goal is to make a functional language with this limited inventory.
 
 Which requirements have to be meet to consider a language "functional" is an open discussion. However I developed a simple plan in few steps. Each step is an improvement towards the goal.
 
