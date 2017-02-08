@@ -12,7 +12,7 @@ papai     | 1.p
 taa       | 2.s
 tataa     | 2.p
 tapai     | inc.dual
-tapai     | inc.p
+tapia     | inc.p
 kia       | 3.proximal
 kika      | 3.distal
 kiki      | 3.absent

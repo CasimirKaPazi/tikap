@@ -106,17 +106,16 @@ The third person pronouns are demonstratives at the same time.
 The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time runs so fast, *it* is always ahead of me."
 
 |pronoun|Gloss     |English |
-|-----|------------|--------|
-|     | 1.s        | I      |
-|     | 1.p        | we     |
-|     | 2.s        | you    |
-|     | 2.p        | you all|
-|     | inc.dual   | you and me |
-|     | inc.p      | we     |
-|     | 3.proximal | this/they here |
-|     | 3.distal   | that/they there |
-|     | 3.absent   | they who are not here |
-|     |            | all |
+|------|------------|--------|
+|pai   | 1.s        | I      |
+|papai | 1.p        | we     |
+|taa   | 2.s        | you    |
+|tataa | 2.p        | you all|
+|tapai | inc.dual   | you and me |
+|tapia | inc.p      | we     |
+|kia   | 3.proximal | this/they here |
+|kika  | 3.distal   | that/they there |
+|kiki  | 3.absent   | they who are not here, all |
 
 
 ### Adjectives/descriptive verbs
