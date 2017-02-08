@@ -80,6 +80,7 @@ Word classes
 * Closed class
   * Base verbs (usually transitive or ditransitive)
   * Narrative classifiers
+  * Pronouns/Demonstratives
 * Open class
   * Adjectives/descriptive verbs (usually intransitive or avalent)
   * Nouns
@@ -171,6 +172,26 @@ There are two main forms:
 To talk about a classifier in an abstract sense (as in "I don't know when to use the Stuff-CL") they get prefixed with the Thing-CL.
 
 
+### Copula, Pronouns, Demonstratives
+
+Pronouns, demonstratives and names can be used as a copula.
+The third person pronouns are demonstratives at the same time.
+The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time runs so fast, *it* is always ahead of me."
+
+|pronoun|Gloss     |English |
+|-----|------------|--------|
+|     | 1.s        | I      |
+|     | 1.p        | we     |
+|     | 2.s        | you    |
+|     | 2.p        | you all|
+|     | inc.dual   | you and me |
+|     | inc.p      | we     |
+|     | 3.proximal | this/they here |
+|     | 3.distal   | that/they there |
+|     | 3.absent   | they who are not here |
+|     |            | all |
+
+
 ### Adjectives/descriptive verbs
 
 Adjectives can in their base form be translated as "to be x", in transitive sentences "to cause something to be x". To make it transitive it is usually combined with base verbs, while omitting the base verb is common when the context is clear.  
@@ -252,26 +273,6 @@ Word order
 
 Default word order is Verb Subject Object Indirect-object (VSOI).
 But it can change to IVSO, or OVS through noun incorporation.
-
-
-### Copula, Pronouns, Demonstratives
-
-Pronouns, demonstratives and names can be used as a copula.
-The third person pronouns are demonstratives at the same time.
-The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time runs so fast, *it* is always ahead of me."
-
-|pronoun|Gloss     |English |
-|-----|------------|--------|
-|     | 1.s        | I      |
-|     | 1.p        | we     |
-|     | 2.s        | you    |
-|     | 2.p        | you all|
-|     | inc.dual   | you and me |
-|     | inc.p      | we     |
-|     | 3.proximal | this/they here |
-|     | 3.distal   | that/they there |
-|     | 3.absent   | they who are not here |
-|     |            | all |
 
 
 ### Verb serialization
