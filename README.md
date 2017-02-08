@@ -23,6 +23,13 @@ In order to achieve this the language tries to work with a small vocabulary and 
 One very productive feature is its system of nonconcatenative morphology. In any root word consonants and vowels can be regrouped to form different patterns with new meaning. The order of consonants and the order of vowels however stays the same. Therefor the root word "tikap" has the consonants "tkp" (in this order) and the vowels "ia" (in this order). This allows the following variations: "tkipa, tkiap, tikpa, itkap". Together with allophonic variation those five words can be pronounced quite different from each other [tɨɣäɸ txəβʌ txəɐɸ tɨxpʌ ɨskəɸ].  
 This system is intentionally designed in a way that allows any consonant and vowel clusters to be broken apart. So they can not be analyzed as additional phonemes of their own.
 
+Structure of this documentation
+-------------------------------
+
+"[Phonology](Phonology.md)"  
+"[Grammar](Grammar.md)"  
+"[Lexicon](Lexicon.md)"  
+
 Inspiration
 -----------
 
