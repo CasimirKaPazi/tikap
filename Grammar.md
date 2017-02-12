@@ -99,23 +99,30 @@ There are two main forms:
 To talk about a classifier in an abstract sense (as in "I don't know when to use the Stuff-CL") they get prefixed with the Thing-CL.
 
 
-### Copula, Pronouns, Demonstratives
+### Pronouns, Demonstratives, Copula
 
 Pronouns, demonstratives and names can be used as a copula.
 The third person pronouns are demonstratives at the same time.
-The "all" pronoun may refer to a general group or abstract concepts. e.g. "Time runs so fast, *it* is always ahead of me."
+The third person absent pronoun may also refer to a general group or abstract concepts. e.g. "Time runs so fast, *it* is always ahead of me."
 
 |pronoun|Gloss     |English |
 |------|------------|--------|
-|pai   | 1.s        | I      |
-|papai | 1.p        | we     |
-|taa   | 2.s        | you    |
-|tataa | 2.p        | you all|
-|tapai | inc.dual   | you and me |
-|tapia | inc.p      | we     |
+|pai   | 1          | I      |
+|taa   | 2          | you    |
+|tapai | inc        | you and me |
 |kia   | 3.proximal | this/they here |
 |kika  | 3.distal   | that/they there |
 |kiki  | 3.absent   | they who are not here, all |
+
+Examples:
+
+ttitit kia katti
+annoying PROX cat
+This cat is annoying. (or: These cats are annoying.)
+
+ttitit kiki katti
+annoying ABSENT cat
+That cat is annoying. (or: Cats are annoying.)
 
 
 ### Adjectives/descriptive verbs
@@ -237,7 +244,7 @@ value   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |10 |11 |12 |
 --------|---|---|---|---|---|---|---|---|---|---|---|---|
 syllable|pa |ta |ka |ppa|pta|pka|tpa|tta|tka|kpa|kta|kka|
 
-As an example the number 89 ^(base 10) is 75 ^(base 12) (7x12¹ + 5x12¹). And therefor represented by "tpa+pta", adding the obligatory "i" and normalizing it the word for 89 becomes "tipapat".
+As an example the number 89 ^(base 10) is 75 ^(base 12) (7x12¹ + 5x1). And therefor represented by "tpa+pta", adding the obligatory "i" and normalizing it the word for 89 becomes "tipapat".
 
 tikap     | base 10 | bijective base 12 |
 ----------|---------|-------------------|

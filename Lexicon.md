@@ -60,6 +60,7 @@ tikap     | meaning        | origin
 kitap     | written        | arabic: kitab
 kitii     | fresh new      |
 piapia    | strong, confident | toki pona: wawa (puapua)
+ttitit    | annoying       |
 
 
 ## Nouns
@@ -73,6 +74,7 @@ tipapata  | water          |
 tapap     | house, building | toki pona: tomo (tpamo tpapa)
 tikap     | a language called tikap | After coming up with the phonology I put all possible combinations of all five phonemes into google to see which has the fewest results. Tikap won.
 tikap     | a teacup       | en: teacup
+katti     | cat            | de: Katzi
 
 
 ## Numbers
