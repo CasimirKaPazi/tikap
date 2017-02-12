@@ -1,8 +1,8 @@
 Phonology
----------
+=========
 
 Phonemes
-========
+--------
 
 /p t k/ /ɨ ɐ/
 
@@ -14,7 +14,7 @@ The way phonemes can be ordered is limited by these rules:
 Usually the ratio of consonants and vowels in a root words is limited by `C = V ± 1` . Exceptions are possible.
 
 Stress
-======
+------
 
 Vowels and combinations of vowels constitute syllable nuclei. Primary stress can fall on either of those, preferable on VV parts if present.
 
@@ -25,7 +25,7 @@ apatta > /'a.pat.ta/ /a'pat.ta/ /a.pat'ta/
 aptaat > /ap'taat/
 
 Allophones
-==========
+----------
 
 In general all allophony is optional, one might pronounce /tikap/ as [tikap], [tɨkɐp], [tɨɣäɸ] or anything in between. As a register the basic variant is used in dictating, teaching and talking to learners of the language and linguists or when talking about parts of the language.
 
@@ -55,7 +55,7 @@ In general all allophony is optional, one might pronounce /tikap/ as [tikap], [t
 Because of the wide free variation possible the language is often slurred and spoken with so little effort, that to an untrained listener it might not sound like a complex system of communication at all.
 
 Orthography
-===========
+-----------
 
 Romanized orthography has two forms which differ in the way consonants are written. Vowels are < a i > usually.
 If stress deviates from the predictable pattern it is marked with an accent on the first vowel of the syllable < á í >.

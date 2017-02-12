@@ -1,5 +1,5 @@
 Lexicon
--------
+=======
 
 The "origin" is merely a mnemonic hint to better learn the vocabulary.
 

@@ -1,8 +1,32 @@
 Grammar
--------
+=======
+
+## Table of Contents
+
+1. [Word classes](#Word-classes)  
+	1.1. [Base verbs](#Base-verbs)  
+	1.2. [Narrative classifiers](#Classifiers)  
+	1.3. [Pronouns](#Pronouns)  
+	1.4. [Adjectives](#Adjectives)  
+	1.5. [Nouns](#Nouns)  
+2. [Morphology](#Morphology)  
+	2.1. [Grouping](#Grouping)  
+	2.2. [Affixes](#Affixes)  
+	2.3. [Number and definiteness](#Number-definiteness)  
+	2.4. [Possession](#Possession)  
+	2.5. [Kinship terms](#Kinship)  
+	2.6. [Evidence and Tense](#Evidence-tense)  
+3. [Word order](#Word-order)  
+	3.1. [Basic word order](#Basic-word-order)  
+	3.2. [Verb serialization](#Verb-serialization)  
+	3.3. [Noun incorporation](#Noun-incorporation)  
+	3.4. Questions  
+4. [Numerals](#Numerals)  
+
+<div id='Word-classes'/>
 
 Word classes
-============
+------------
 
 * Closed class
   * Base verbs (usually transitive or ditransitive)
@@ -14,6 +38,7 @@ Word classes
 
 Adjectives and nouns can easily change into one other, differing mostly in their role in the sentence.
 
+<div id='Base-verbs'/>
 
 ### Base verbs
 
@@ -48,6 +73,7 @@ The base verbs are:
 * **use mouth** "pipiti"  
   In any way that's not talking or eating. Spit, lick, kiss, smile, utter random noise.
 
+<div id='Classifiers'/>
 
 ### Narrative classifiers
 
@@ -98,6 +124,7 @@ There are two main forms:
 
 To talk about a classifier in an abstract sense (as in "I don't know when to use the Stuff-CL") they get prefixed with the Thing-CL.
 
+<div id='Pronouns'/>
 
 ### Pronouns, Demonstratives, Copula
 
@@ -124,6 +151,7 @@ ttitit kiki katti
 annoying ABSENT cat
 That cat is annoying. (or: Cats are annoying.)
 
+<div id='Adjectives'/>
 
 ### Adjectives/descriptive verbs
 
@@ -131,14 +159,18 @@ Adjectives can in their base form be translated as "to be x", in transitive sent
 
 *be sleeping* & *put down* > bring someone to bed
 
+<div id='Nouns'/>
 
 ### Nouns
 
 Nouns are boring. Therefor classifiers take their place as often as possible.
 
+<div id='Morphology'/>
 
 Morphology
-==========
+----------
+
+<div id='Grouping'/>
 
 ### Grouping
 
@@ -167,6 +199,7 @@ In this way, the sonority patterns produced by grouping resemble intonation patt
 
 Note that, because affixes "agree" with the root word they mirror the forms. A root word ending in a consonant will more likely also end in a consonant even with affixes attached. e.g. ika*t* pi -ka > ikatipa*k*
 
+<div id='Affixes'/>
 
 ### Affixes
 
@@ -177,12 +210,14 @@ katia -apa > katiapaa
 tpik- ptaik > tpik*i*ptaik
 katia -apaa > katia*t*apaa
 
+<div id='Number-definiteness'/>
 
 ### Number and Definiteness
 
 All nouns are undefined in their number. When a noun is used with a classifier but no number word it is singular. For any other number than one or zero a classifier is needed.
 A classifier also makes a noun more definite.
 
+<div id='Possession'/>
 
 ### Possession
 
@@ -204,6 +239,7 @@ In alienable sentences the noun itself has to be possessed. So the pattern is:
 3 2-teacup  
 "This is your teacup."
 
+<div id='Kinship'/>
 
 ### Kinship terms and People
 
@@ -215,6 +251,7 @@ There are no dedicated kinship terms by themselves. Instead they are formed with
 
 There are also semantic changes for other people marked possessed, "person" becomes "friend", "stranger" becomes "guest". It is also common to use the construction with personal names.
 
+<div id='Evidence-tense'/>
 
 ### Evidence and Tense
 
@@ -225,15 +262,19 @@ There is no explicit tense marking, but direct and indirect evidence also imply 
 * Indirect evidence: **tat-** reported speech, reasoning, inferring
 * Non-evidence: *unmarked* reported-reported speech, made up stories, guessing, questions
 
+<div id='Word-order'/>
 
 Word order
-==========
+----------
+
+<div id='Basic-word-order'/>
 
 ### Basic word order
 
 Default word order is Verb Subject Object Indirect-object (VSOI).
 But it can change to IVSO, or OVS through noun incorporation.
 
+<div id='Verb-serialization'/>
 
 ### Verb serialization
 
@@ -243,6 +284,7 @@ Example:
 *take go dog fish*  
 The dog steals fish and runs away.
 
+ <div id='Noun-incorporation'/>
 
 ### Noun incorporation
 
@@ -252,9 +294,10 @@ Example:
 *fish take dog*  
 The dog is fish-taking.
 
+<div id='Numerals'/>
 
 Numerals
-========
+--------
 
 Numbers are represented as a sum of fibonaçci numbers, which is known as [Zeckendorf representation](https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem). The basic numerals are therefor all fibonaçci numbers.
 

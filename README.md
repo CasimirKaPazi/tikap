@@ -1,5 +1,5 @@
 Tikap
------
+=====
 
 **kaa kedaf pugea tigaf**  
 [kɐː kəɾɐɸ pʉɣɘɐ tɨɣɐɸ]  
