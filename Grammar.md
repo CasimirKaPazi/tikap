@@ -192,6 +192,7 @@ There is no explicit tense marking, but direct and indirect evidence also imply 
 * Indirect evidence: **tat-** reported speech, reasoning, inferring
 * Non-evidence: *unmarked* reported-reported speech, made up stories, guessing, questions
 
+
 Word order
 ==========
 
@@ -217,3 +218,41 @@ To indicate an action that involves a specific object or instrument, the noun ca
 Example:  
 *fish take dog*  
 The dog is fish-taking.
+
+
+Numerals
+========
+
+Numbers are represented as a sum of fibonaçci numbers, which is known as [Zeckendorf representation](https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem). The basic numerals are therefor all fibonaçci numbers.
+
+What advantages such a system might have is yet to be explored by usage.
+
+With a limited phonology as tikap has one runs into the issue to run out of possible words. If one would assign "ti" as 1, no other word could contain "ti" because something like "tika" for 55 could be read as 1+X (ti+ka). To counter that all basic numerals have exactly one "i", which appears as the first vowel.
+
+Using this representation brings the problem, that one needs more and more words the bigger numbers ones wants to express. Tikap therefor uses a overly complex and unnecessary secondary numeral system to generate those roots. For a normal speaker their origin would probably appear opaque. Therefor it is just a useless game and can be ignored.
+
+The system uses is a [bijective base 12](https://en.wikipedia.org/wiki/Bijective_numeration) representation as this allows to assign all possible syllables of the shape (C)Ca (because i is excluded) to values from 1 to 12 as follows.
+
+value   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |10 |11 |12 |
+--------|---|---|---|---|---|---|---|---|---|---|---|---|
+syllable|pa |ta |ka |ppa|pta|pka|tpa|tta|tka|kpa|kta|kka|
+
+As an example the number 89 ^(base 10) is 75 ^(base 12) (7x12¹ + 5x12¹). And therefor represented by "tpa+pta", adding the obligatory "i" and normalizing it the word for 89 becomes "tipapat".
+
+tikap     | base 10 | bijective base 12 |
+----------|---------|-------------------|
+pia  | 1 | 1 |
+tia  | 2 | 2 |
+kia  | 3 | 3 |
+pita  | 5 | 5 |
+tita  | 8 | 8 |
+piapa | 13 | 11 |
+pitaka | 21 | 19 |
+tikapa | 34 | 2A |
+pipatap | 55 | 47 |
+tipapat | 89 | 75 |
+kikakak | 144 | BC |
+
+We now can form other number using the above mentioned Zeckendorf representation. 100 ^(base 10) becomes 89+8+3 "tipapattitakia".
+
+To those asking "But why?" I answer "You have been warned."

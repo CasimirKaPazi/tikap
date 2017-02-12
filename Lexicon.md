@@ -35,17 +35,6 @@ kaki |thing|
 kaa  |stuff|
 
 
-## Numbers
-
-tikap     | meaning        | origin 
-----------|----------------|--------
-ipai  | 1 | toki pona: wan (puan pian piai)
-tip   | 2 | toki pona: tu (tpi)
-paka  | 3 | 
-tika  | 5 | toki pona: luka (tuka tpika)
-pipi  | 8 | toki pona: pipi (because a spider has eight legs)
-
-
 ## Base verbs
 
 tikap     | meaning        | origin 
@@ -53,7 +42,7 @@ tikap     | meaning        | origin
 taki      | talk, language | toki pona: toki
           | give a gift
           | perceive
-          | ask learn think
+tapitataa | ask learn think | toki pona: tawa sona (tapua tata, tapiatata)
           | go
 tpatap    | ingest         | nomnom (taptap)
           | give, take, share, put down, pick up
@@ -84,3 +73,20 @@ tipapata  | water          |
 tapap     | house, building | toki pona: tomo (tpamo tpapa)
 tikap     | a language called tikap | After coming up with the phonology I put all possible combinations of all five phonemes into google to see which has the fewest results. Tikap won.
 tikap     | a teacup       | en: teacup
+
+
+## Numbers
+
+tikap     | base 10 | bijective base 12 |
+----------|---------|-------------------|
+pia  | 1 | 1 |
+tia  | 2 | 2 |
+kia  | 3 | 3 |
+pita  | 5 | 5 |
+tita  | 8 | 8 |
+piapa | 13 | 11 |
+pitaka | 21 | 19 |
+tikapa | 34 | 2A |
+pipatap | 55 | 47 |
+tipapat | 89 | 75 |
+kikakak | 144 | BC |
