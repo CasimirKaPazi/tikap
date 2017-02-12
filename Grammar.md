@@ -186,8 +186,34 @@ A classifier also makes a noun more definite.
 
 ### Possession
 
-To indicate, in a declarative sentence, something is in someones possession the pronoun for the person in question is used like a copula before the possessed noun. *You arm* "This is your arm."  
-A possessed word just uses the same construction with the pronoun as prefix. *youarm*
+To mark a noun possessed the word gets prefixed with the appropriate pronoun. **taa-tikap** "your teacup"
+
+In a declarative sentence there is a difference between alienable and inalienable possession. For what counts as inalienable let me refer to the listing in this [educational video](https://www.youtube.com/watch?v=-1LRD3DtFAo).
+
+Inalienable sentences follows the pattern:  
+[pronoun of possessor] [possessed noun]  
+
+**taa kapa**  
+2 head  
+"This is your head."
+
+In alienable sentences the noun itself has to be possessed. So the pattern is:  
+[pronoun of noun] [pronoun of possessor]-[possessed noun]  
+
+**kia taatikap**  
+3 2-teacup  
+"This is your teacup."
+
+
+### Kinship terms and People
+
+There are no dedicated kinship terms by themselves. Instead they are formed with nouns that describes people plus a possessive pronoun. This is equivalent to English construction as "my man, my woman" to refer to husband and wife. The semantic changes the nouns undergo in this process always involve affection.
+
+**piapatii**  
+1-girl/woman  
+"my girlfriend/wife"
+
+There are also semantic changes for other people marked possessed, "person" becomes "friend", "stranger" becomes "guest". It is also common to use the construction with personal names.
 
 
 ### Evidence and Tense

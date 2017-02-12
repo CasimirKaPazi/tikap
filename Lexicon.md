@@ -7,12 +7,9 @@ The "origin" is merely a mnemonic hint to better learn the vocabulary.
 
 tikap     | meaning        | origin 
 ----------|----------------|--------
-pai       | 1.s
-papai     | 1.p
-taa       | 2.s
-tataa     | 2.p
-tapai     | inc.dual
-tapia     | inc.p
+pai       | 1
+taa       | 2
+tapai     | inclusive
 kia       | 3.proximal
 kika      | 3.distal
 kiki      | 3.absent
@@ -61,6 +58,7 @@ kitap     | written        | arabic: kitab
 kitii     | fresh new      |
 piapia    | strong, confident | toki pona: wawa (puapua)
 ttitit    | annoying       |
+          | hypothetical, future, parallel timeline, parallel universe |
 
 
 ## Nouns
@@ -74,7 +72,29 @@ tipapata  | water          |
 tapap     | house, building | toki pona: tomo (tpamo tpapa)
 tikap     | a language called tikap | After coming up with the phonology I put all possible combinations of all five phonemes into google to see which has the fewest results. Tikap won.
 tikap     | a teacup       | en: teacup
-katti     | cat            | de: Katzi
+katit     | cat            | de: Katzi
+
+
+## People/Kinship
+
+tikap      | meaning        | origin 
+-----------|----------------|--------
+itai       | person | toki pona: jan
+ata-itai   | (your) friend |
+           | person older than you |
+taa-       | (your) parent, ancestor |
+tiitii     | person about the same generation as you |
+taa-tiitii | (your) sibling | didi
+           | person younger than you |
+taa-       | (your) child |
+itia       | stranger |
+ata-itia   | (your) guest |
+patii      | female person, woman, girl |
+taa-patii  | (your) girlfriend |
+pipii      | male person, man, boy |
+taa-pipii  | (your) boyfriend |
+tipa       | third gender person |
+taa-papia  | (your) girlfriend/boyfriend |
 
 
 ## Numbers
