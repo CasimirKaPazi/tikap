@@ -258,7 +258,7 @@ There are also semantic changes for other people marked possessed, "person" beco
 These prefixes attach to base verbs and demonstratives.
 There is no explicit tense marking, but direct and indirect evidence also imply a non-future tense (present or past).
 
-* Direct evidence: **pi-** own experience, perception, self evident truth
+* Direct evidence: **pa-** own experience, perception, self evident truth
 * Indirect evidence: **tat-** reported speech, reasoning, inferring
 * Non-evidence: *unmarked* reported-reported speech, made up stories, guessing, questions
 
@@ -273,6 +273,16 @@ Word order
 
 Default word order is Verb Subject Object Indirect-object (VSOI).
 But it can change to IVSO, or OVS through noun incorporation.
+
+<div id='Relative-clause'/>
+
+### Relative clause
+
+A relative clause gets introduced with "pi".
+
+**taapaipai pi apaa aa patiti.**  
+2-child REL water ingest EXP-small
+Your child who is water drinking seems small.
 
 <div id='Verb-serialization'/>
 
