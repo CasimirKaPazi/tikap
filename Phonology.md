@@ -41,8 +41,8 @@ In the "simple" register no allophony is used. The simple register occurs in dic
 4. Consonant clusters are realized voiceless as PF (Plosive, Fricative) word initial [ps px tɸ tx kɸ ks], and voiceless FP in between vowels [ɸp sp xp st ɸt xt xk ɸk sk].
 5. Two of the same consonants at the beginning of a word take the forms [ts pɸ kx].
 6. If /t/ is followed by /ɨ/ it becomes [ʒ] in between vowels. At the beginning and end of a word, following /ɨ/ it becomes [ʃ]. At the beginning of a word the cluster /tt/ becomes [tʃ] before /ɨ/.
-7. The vowels /ɨ ɐ/ get rounded to [ʊ ɔ] after /p/.
-8. The vowels /ɨ ɐ/ get fronted to [ɪ ɛ] after /t/.
+7. The vowels /ɨ ɐ/ get rounded to [u ɔ] after /p/.
+8. The vowels /ɨ ɐ/ get fronted to [i ɛ] after /t/.
 9. The vowels /ɨ ɐ/ get lowered to [ə ä] after /k/.
 
 Because of the wide free variation possible the language is often slurred and spoken with so little effort, that to an untrained listener it might not sound like a complex system of communication at all.

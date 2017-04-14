@@ -1,8 +1,8 @@
 Tikap
 =====
 
-**kaa kedaf pugea tigaf**  
-[kɐː kəɾɐɸ pʉɣɘɐ tɨɣɐɸ]  
+**kîa kîdef pugîa sigaf**  
+[kəɐ kəɾɛɸ puɣɘɐ ʃiɣɐɸ]  
 kaa kitap pi-kia tikap  
 THING.CL written EXP-DEM.PROXIMATE teacup  
 This document is about Tikap.
@@ -20,7 +20,7 @@ Which requirements have to be meet to consider a language "functional" is an ope
 
 In order to achieve this the language tries to work with a small vocabulary and therefor uses some uncommon grammatical constructions.
 
-One very productive feature is its system of nonconcatenative morphology. In any root word consonants and vowels can be regrouped to form different patterns with new meaning. The order of consonants and the order of vowels however stays the same. Therefor the root word "tikap" has the consonants "tkp" (in this order) and the vowels "ia" (in this order). This allows the following variations: "tkipa, tkiap, tikpa, itkap". Together with allophonic variation those five words can be pronounced quite different from each other [tɨɣäɸ txəβʌ txəɐɸ tɨxpʌ ɨskəɸ].  
+One very productive feature is its system of nonconcatenative morphology. In any root word consonants and vowels can be regrouped to form different patterns with new meaning. The order of consonants and the order of vowels however stays the same. Therefor the root word "tikap" has the consonants "tkp" (in this order) and the vowels "ia" (in this order). This allows the following variations: "tkipa, tkiap, tikpa, itkap". Together with allophonic variation those five words can be pronounced quite different from each other [ʃiɣäɸ txəβɔ txəɐɸ ʃixpɔ ɨʃkəɸ].  
 This system is intentionally designed in a way that allows any consonant and vowel clusters to be broken apart. So they can not be analyzed as additional phonemes of their own.
 
 Structure of this documentation
