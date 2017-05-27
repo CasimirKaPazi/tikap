@@ -61,6 +61,8 @@ ttitit    | annoying       |
           | hypothetical, future, parallel timeline, parallel universe |
 titi      | small, quiet   | toki pona: lili
 kalapa    | big, loud      | toki pona: kalapa
+kikip     | sharp, hard    | kiki bouba
+papak     | round, soft    | kiki bouba
 
 
 ## Nouns
@@ -85,7 +87,7 @@ katakata  | fish           |
 tikap      | meaning
 -----------|--------
 itai       | person
-ata-itai   | (your) friend
+taa-itai   | (your) friend
 tiatia     | person older than you
 taa-tiatia | (your) parent, ancestor
 tiitii     | person about the same generation as you
@@ -93,7 +95,7 @@ taa-tiitii | (your) sibling
 paipai     | person younger than you
 taa-paipai | (your) child
 itia       | stranger
-ata-itia   | (your) guest
+taa-itia   | (your) guest
 patii      | female person, woman, girl
 taa-patii  | (your) girlfriend
 pipii      | male person, man, boy
