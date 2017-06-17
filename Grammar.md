@@ -42,26 +42,18 @@ Adjectives and nouns can easily change into one other, differing mostly in their
 
 ### Base verbs
 
-*Inversion:*  
-A smaller group of base verbs can be turned into a inverted form in which the subject becomes the object (*to ask* > *to answer*). This often also includes semantic changes.
-Note that the inversion just changes the doer of the action, not it's connotation (*give a gift* > *steal*).  
-Usually only used when the object is part of the "big animal" group. That is, some highly animate being to interact with. Indirect objects are unaffected.
+Base verbs are meant to cover most usual actions. They often occur in an construction together with adjectives to be more precise.
 
 The base verbs are:
 
 * **talk** "taki"  
   Or any social interaction.
-  inversion: listen
 * **give a gift** "pakata"  
   To give someone a gift is a highly regulated and formal act. It is therefor different form giving someone a tool at work or food because they are hungry.
-  inversion: steal  
 * **perceive** "ia/ai"  
-  **ia** is used after the evidential marker **pa** "**paia**", and **ai** after **tat** "**tatai**". The use of an evidential makers is mostly obligatory for this verb.
-  inversion: show, draw attention
+  **ia** is used after the evidential marker **pa** "**paai**", and **ai** after **tat** "**tatia**". The use of an evidential makers is mostly obligatory for this verb.
 * **ask, learn, think** "tapitataa"  
-  inversion: answer, teach
 * **go** "ii"  
-  inversion: move something
 * **ingest** "aa"  
 * **give, take, share, put down, pick up** "aapii"  
   Change the location or owner of an object (without any formality).
