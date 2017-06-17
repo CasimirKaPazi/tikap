@@ -37,16 +37,16 @@ kaa  |stuff|
 tikap     | meaning        | origin 
 ----------|----------------|--------
 taki      | talk, language | toki pona: toki
-          | give a gift
-          | perceive
-tapitataa | ask learn think | toki pona: tawa sona (tapua tata, tapiatata)
-          | go
+pakata    | give a gift    | haw: makana
+ia/ai     | perceive       | en: ear, eye
+tapitataa | ask learn think | toki pona: tawa sona (tapa tata, tapiatata)
+ii        | go             | eo: iri
 aa        | ingest         |
-          | give, take, share, put down, pick up
+aapii     | give, take, share, put down, pick up
 paki      | hold, hug, care, nurture
-akita     | affect
-kipiki    | use, know how to use
-          | create, plant, cook
+kaita     | affect
+kipiki    | use            | toki pona: kepeken
+kati      | create, plant, cook
 pipiti    | use mouth
 
 

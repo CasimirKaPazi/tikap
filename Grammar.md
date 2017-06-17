@@ -52,24 +52,24 @@ The base verbs are:
 * **talk** "taki"  
   Or any social interaction.
   inversion: listen
-* **give a gift**  
+* **give a gift** "pakata"  
   To give someone a gift is a highly regulated and formal act. It is therefor different form giving someone a tool at work or food because they are hungry.
   inversion: steal  
-* **perceive**  
+* **perceive** "ia/ai"  
+  **ia** is used after the evidential marker **pa** "**paia**", and **ai** after **tat** "**tatai**". The use of an evidential makers is mostly obligatory for this verb.
   inversion: show, draw attention
 * **ask, learn, think** "tapitataa"  
   inversion: answer, teach
-* **go**  
+* **go** "ii"  
   inversion: move something
-
 * **ingest** "aa"  
-* **give, take, share, put down, pick up**  
+* **give, take, share, put down, pick up** "aapii"  
   Change the location or owner of an object (without any formality).
 * **hold, hug, care** "paki"  
-* **affect** "akita"  
+* **affect** "kaita"  
   hit, chop, break, burn
 * **use** "kipiki"  
-* **create, plant, cook**  
+* **create, plant, cook** "kati"  
 * **use mouth** "pipiti"  
   In any way that's not talking or eating. Spit, lick, kiss, smile, utter random noise.
 
