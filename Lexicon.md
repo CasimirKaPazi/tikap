@@ -17,7 +17,7 @@ kiki      | 3.absent
 
 ## Classifiers
 
-For elaborate discretion see the grammar section on classifiers.
+For an elaborate description see the grammar section on classifiers.
 
 tikap     | meaning        | origin 
 ----------|----------------|--------

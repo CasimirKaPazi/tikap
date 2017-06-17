@@ -50,15 +50,14 @@ Because of the wide free variation possible the language is often slurred and sp
 Orthography
 -----------
 
-Romanized orthography has two forms which differ in the way consonants are written.
+Romanized orthography has two forms.
 
-In it's basic form consonants are written as they are /p t k/ always as < p t k >, vowels as < i a >.
+Accurate spelling: In it's basic form consonants are written as they are /p t k/ always as < p t k >, vowels as < i a >.
 The basic form is always used when talking about unaltered roots. e.g. "tikap"
 
-The alternate form marks allophones. Voiceless [ɸ ʃ~s x] as < f s x > and voiced [β ɾ ɣ] as < v d g >. This is used in normal writing to differentiate words more easily. e.g. "tigaf"
-Vowels are < u o > after /p/, < i e > after /t/ and < î a > after /k/, < i a > anywhere else.
+Colloquial spelling: This alternate form marks allophones. Voiceless [ɸ ʃ~s x] as < f s x > and voiced [β ɾ ɣ] as < v d g >. Vowels are < u o > after /p/, < i e > after /t/ and < i a > after /k/ and anywhere else. This is used in every day writing to differentiate words more easily. e.g. "tigaf"
 
 Example:  
-tikap atki tipai  
-sigaf askî sivoi  
+tikap atki tipai (accurate)  
+sigaf aski sivoi (colloquial)  
 [ʃiɣäɸ ɐskə ʃiβɔɨ]

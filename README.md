@@ -1,9 +1,9 @@
 Tikap
 =====
 
-**kîa kîdef pugîa sigaf**  
-[kəɐ kəɾɛɸ puɣɘɐ ʃiɣɐɸ]  
-kaa kitap pi-kia tikap  
+**kagi kidef pugia sigaf**  
+kaki kitap pi-kia tikap  
+[kɐɣɘ kəɾɛɸ puɣɘɐ ʃiɣɐɸ]  
 THING.CL written EXP-DEM.PROXIMATE teacup  
 This document is about Tikap.
 
@@ -26,9 +26,9 @@ This system is intentionally designed in a way that allows any consonant and vow
 Structure of this documentation
 -------------------------------
 
-"[Phonology](Phonology.md)"  
-"[Grammar](Grammar.md)"  
-"[Lexicon](Lexicon.md)"  
+* [Phonology](Phonology.md)  
+* [Grammar](Grammar.md)  
+* [Lexicon](Lexicon.md)  
 
 Inspiration
 -----------
@@ -37,7 +37,7 @@ While the conlang is largely determined by the constrain the phonology creates, 
 
 * The Phonology itself is inspired by Rotokas. An alternative attempt would have a bilabial, an alveolar and a glottal consonant, which would more resemble Piraha.
 * The system of "classifiers" is directly inspired by American Sign Language (ASL).
-* Using demonstratives as copula is directly inspired by the German Sign Language (DGS).
+* Using demonstratives as copula is directly inspired by German Sign Language (DGS).
 * The effort to keep the language conceptually simple and part of the aesthetics draw from Toki Pona.
 
 License
