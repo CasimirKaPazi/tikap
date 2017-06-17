@@ -94,12 +94,12 @@ The main categories are:
   Plot of land, paper, paintings, walls
 * **Container and their content** "kap/paki"  
   Things that serve the purpose of a container or are inside one.  
-  Teacups, bottles, bags, vehicles, liquid in a container, passengers, gases under pressure, information storage devices
-* **Compact**  
-  Any kind of lump or object that does not fall in the other categories.  
-  Stones, logs, tools.
+  Teacups, bottles, bags, vehicles, liquid in a container, passengers, gases under pressure, information storage devices, places.
 * **Food** "pata"  
   Everything edible when it is important to the discussion that it is edible.
+* **Relations** "titata"  
+  Relations, connections, networks.  
+  Language, relatives, social relations, internet, theories.
 * **Thing** "kaki"  
   General classifier for countable nouns.  
   Did you get the thingy form the thingy for the thingy?
@@ -107,9 +107,7 @@ The main categories are:
   General classifier for uncountable nouns. Includes abstract concepts like time.  
   I better put more stuff of the stuff into the stuff.
 
-Classifiers that may or may not be added: Plants, Tools, Places, Networks (Language, social relations, internet)
-
-Which CL to use also depends on the context. If a book falls on your head you would use Compact, if you quote from it, it is a Container.
+Which CL to use also depends on the context. If a book falls on your head you would use Thing, if you quote from it, it is a Container.
 
 To talk about a classifier in an abstract sense (as in "I don't know when to use the Stuff-CL") they get prefixed with the Thing-CL.
 
