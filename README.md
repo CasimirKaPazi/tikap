@@ -1,9 +1,9 @@
 Tikap
 =====
 
-**kagi kidef pugia sigaf**  
+**kagi kidem pugia sigam**  
 kaki kitap pi-kia tikap  
-[kɐɣɘ kəɾɛɸ puɣɘɐ ʃiɣɐɸ]  
+[kɐɣɘ kəɾɛm puɣɘɐ ʃiɣɐm]  
 THING.CL written EXP-DEM.PROXIMATE teacup  
 This document is about Tikap.
 
