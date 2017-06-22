@@ -249,12 +249,17 @@ There are also semantic changes for other people marked possessed, "person" beco
 
 ### Evidence and Tense
 
-These prefixes attach to base verbs and demonstratives.
+These prefixes attach to base verbs. They are also used on adjectives and nouns when they follow a determiner used as copula.
 There is no explicit tense marking, but direct and indirect evidence also imply a non-future tense (present or past).
 
 * Direct evidence: **pa-** own experience, perception, self evident truth
 * Indirect evidence: **tat-** reported speech, reasoning, inferring
-* Non-evidence: *unmarked* reported-reported speech, made up stories, guessing, questions
+* Non-evidence: *unmarked* reported-reported speech, made up stories, guessing, questions,
+
+Example:  
+*ap*ai kiki tapap, kiki *pa*pakata  
+EXP.perceive 3.DIST house, 3.DIST EXP.broken  
+I see this house there, it seems to be in ruins.
 
 Reduplicating the base verb forms the cyclic tense. It can be used for processes that has no fixed occurrence in time, but are predictable (like physics), repeating, habitual etc. The cyclic tense does not take evidence marking.
 

@@ -1,10 +1,10 @@
 Tikap
 =====
 
-**kagi kidem pugia sigam**  
-kaki kitap pi-kia tikap  
-[kɐɣɘ kəɾɛm puɣɘɐ ʃiɣɐm]  
-THING.CL written EXP-DEM.PROXIMATE teacup  
+**kagi kidem kia posigam**  
+kaki kitap kia patikap  
+[kaɣə kəɾɛm ɣəa pɔʃiɣam]  
+THING.CL written DEM.PROXIMATE EXP-teacup  
 This document is about Tikap.
 
 Tikap is a conlang with five phonemes /p t k/ /ɨ ɐ/ (p t k i a). It's only goal is to make a functional language with this limited inventory.
