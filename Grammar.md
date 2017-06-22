@@ -12,10 +12,11 @@ Grammar
 2. [Morphology](#Morphology)  
 	2.1. [Grouping](#Grouping)  
 	2.2. [Affixes](#Affixes)  
-	2.3. [Number and definiteness](#Number-definiteness)  
-	2.4. [Possession](#Possession)  
-	2.5. [Kinship terms](#Kinship)  
-	2.6. [Evidence and Tense](#Evidence-tense)  
+	2.3. [Reduplication](#Reduplication)  
+	2.4. [Number and definiteness](#Number-definiteness)  
+	2.5. [Possession](#Possession)  
+	2.6. [Kinship terms](#Kinship)  
+	2.7. [Evidence and Tense](#Evidence-tense)  
 3. [Word order](#Word-order)  
 	3.1. [Basic word order](#Basic-word-order)  
 	3.2. [Verb serialization](#Verb-serialization)  
@@ -197,6 +198,12 @@ katia -apa > katiapaa
 tpik- ptaik > tpik*i*ptaik
 katia -apaa > katia*t*apaa
 
+<div id='Reduplication'/>
+
+### Reduplication
+
+In the process of reduplication, one reduplicates the consonants and the vowels separately and then puts them together as a word. e.g. **tikap** does not become **~~tikaptikap~~** but **tkipatikap** (tkptkp + iaia). If there are to many consonants or vowels to form a phonological correct word, they just get lost in the process.
+
 <div id='Number-definiteness'/>
 
 ### Number and Definiteness
@@ -248,6 +255,8 @@ There is no explicit tense marking, but direct and indirect evidence also imply 
 * Direct evidence: **pa-** own experience, perception, self evident truth
 * Indirect evidence: **tat-** reported speech, reasoning, inferring
 * Non-evidence: *unmarked* reported-reported speech, made up stories, guessing, questions
+
+Reduplicating the base verb forms the cyclic tense. It can be used for processes that has no fixed occurrence in time, but are predictable (like physics), repeating, habitual etc. The cyclic tense does not take evidence marking.
 
 <div id='Word-order'/>
 
